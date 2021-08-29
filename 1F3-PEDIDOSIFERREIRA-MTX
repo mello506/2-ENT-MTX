@@ -9,6 +9,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
+<title>[COLOR white][B]À Prova de Fogo (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Prova de Fogo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a81d1652de7386ec50bd0267039f0966dc0395a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fc906e0be5b81e107f830bee2d2ab955e3672ee$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/39217.mp4$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/21513.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]A Prova de Fogo - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/94vWXepNu95YNoTSHCEwM212ugY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b6nBlpDd9sHXFMbyN26RA7JIyHA.jpg</fanart>
+<info>No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com todas as regras, sendo que uma delas é nunca deixar um companheiro para trás numa situação de perigo. Já em sua casa, ao lado da esposa Catherine (Bethea), as coisa são bem diferentes. Sempre ausente, depois de sete anos de união o casamento está chegando ao fim e eles estão decididos a se divorciar. Mas o pai de Caleb pede que ele inicie uma experiência de 40 dias a qual denomina "The Love Dare" (dia do desafio) na tentativa de salvar o casamento.</info>
+<genre>DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[B][COLOR white]Power Book III: Raising Kanan (2021) 5 EPs [/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ADzSyRvZul0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white] Power Book III: Raising Kanan[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:276ac89dccb39fda4ef8f5d4b638c8b0f564c9a2$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Naquela Epoca - DUB[/B][/COLOR]</link>
