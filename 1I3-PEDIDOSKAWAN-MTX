@@ -1,9 +1,95 @@
 <item>			
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<title>[COLOR orange][B]SELECIONE UM FILME ABAIXO[/B][/COLOR]</title>			
 <link>NOLINK</link>			
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>			
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>			
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Walking Dead (2021) - T11 - 3 EPS - DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 11 - DUAL[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c975a10ceb63ab187c11027f4d4569d8f24d3d1f$nome=[COLOR orange][B]T11E01[COLOR yellow] -> [COLOR white]Acheron (Parte 1) - FHD DUAL[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59ca97be163e73a7196eba4f987fbfaccdae4c50$nome=[COLOR orange][B]T11E02[COLOR yellow] -> [COLOR white]Acheron (Parte 1) - HD DUB[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4608468541061125f9985d565b235c34f3aa85b1$nome=[COLOR orange][B]T11E03[COLOR yellow] -> [COLOR white]Caszado - HD DUB[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f2ed6f33251a77ccdceed7c932a86e70daa095b$nome=[COLOR orange][B]T11E04[COLOR yellow] -> [COLOR white]Rendisao - HD - DUB[/B][/COLOR]</link>			
+			
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]T11E05[COLOR yellow] -> [COLOR white]Acheron - HD - DUB[/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>			
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>			
+<genre>TERROR E SUSPENSE</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]The Walking Dead (2021)[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 11 - DUB[/B][/COLOR]</link>			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>			
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>			
+<genre>TERROR E SUSPENSE</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]The Walking Dead (2021) - T11 - 1 EPS - DUB-FIX[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 11 - DUB[/B][/COLOR]</link>			
+			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99675.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Acheron (Parte 1) - DUB-FIX[/B][/COLOR]</link>			
+			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/100481.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Acheron (Parte 2) - DUB[/B][/COLOR]</link>			
+			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/100482.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Caszado - DUB[/B][/COLOR]</link>			
+			
+link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rendisao - DUB[/B][/COLOR]</link>			
+			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>			
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>			
+<genre>TERROR E SUSPENSE</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>			
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>			
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]The Walking Dead (2021) - T11 - 4 EPS - DUB[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 11 - DUB[/B][/COLOR]</link>			
+			
+<link>http://b5.vc:80/series/ritchie/102030/121578.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Acheron (Parte 1) - DUB[/B][/COLOR]</link>			
+			
+<link>http://b5.vc:80/series/ritchie/102030/123591.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Acheron (Parte 2) - DUB[/B][/COLOR]</link>			
+			
+<link>http://b5.vc:80/series/ritchie/102030/126771.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Caszado - DUB[/B][/COLOR]</link>			
+			
+<link>http://b5.vc:80/series/ritchie/102030/123591.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rendisao - DUB[/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>			
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>			
+<genre>TERROR E SUSPENSE</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+	
